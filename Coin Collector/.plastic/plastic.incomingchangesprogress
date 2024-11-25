@@ -1,0 +1,36 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      5
+    ],
+    "SourceCsetId": 8,
+    "DestinationCsetId": 5,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/Scenes/WinScreen.unity",
+        "ItemId": 400,
+        "ParentItemId": 172,
+        "BaseRevId": 537,
+        "SourceRevId": 550,
+        "DestinationRevId": 537
+      },
+      {
+        "Path": "/Assets/Scenes/MainScene.unity",
+        "ItemId": 178,
+        "ParentItemId": 172,
+        "BaseRevId": 163,
+        "SourceRevId": 657,
+        "DestinationRevId": 163
+      },
+      {
+        "Path": "/Assets/Scripts/GameManager.cs",
+        "ItemId": 404,
+        "ParentItemId": 174,
+        "BaseRevId": 295,
+        "SourceRevId": 669,
+        "DestinationRevId": 295
+      }
+    ]
+  }
+]

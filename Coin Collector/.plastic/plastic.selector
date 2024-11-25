@@ -1,0 +1,4 @@
+repository "Coin Collector@nuke_mushroom@cloud"
+  path "/"
+    br "/main"
+    co "/main"
